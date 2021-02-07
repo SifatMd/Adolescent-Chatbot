@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
 mathparse==0.1.2
-nltk==3.4
+nltk==3.4.5
 Pint==0.9
 prompt-toolkit==2.0.8
 pymessenger==0.0.7.0
